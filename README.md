@@ -1,7 +1,5 @@
-test1
+test1 - repository is for testing arduino purpose.
 =====
-
-testing repo andruino
 
 *This repo has been created sole for testing git abilities to support further project needs. At this stage it holds simple test programe code for arduino and Tsic 306 and 506 thermometer.
 
